@@ -28,5 +28,11 @@ This is my system.
 - Review quarterly
 - This is for me, not an audience
 
+## Contributing
+
+If you want to contribute, correct something I got wrong, or discuss a decision I made — feel free to open a pull request or start a discussion. Another perspective is often the fastest way to learn, and what helps me might help someone else reading this too.
+
+One caveat: this is my journey and my notebook. If I don't agree with an idea, for whatever reason, I won't merge it. That's not a judgment on you or your suggestion — it just means it doesn't fit the path I'm walking. Please don't take it personally.
+
 ## Started
 September 2026
