@@ -1,0 +1,32 @@
+# Engineering Notebook
+
+A personal knowledge base documenting my journey from developer to tech lead and architect.
+
+This repository captures everything I learn — from books, experience, architecture decisions, team management situations, and technical discoveries.
+
+## Why this exists
+
+Most knowledge evaporates without a system to capture it.
+This is my system.
+
+## Structure
+
+| Folder | Content |
+|--------|---------|
+| `leadership/` | Team management, processes, difficult conversations |
+| `architecture/` | Decisions, patterns, system design, infrastructure |
+| `books/` | Key takeaways and applied learnings per book |
+| `technical/` | C#, React, Azure, Bicep, testing |
+| `career/` | Goals, reading list, quarterly retrospectives |
+| `decisions/` | Important decisions made, context, and outcomes |
+| `retrospectives/` | Weekly and quarterly reflections |
+
+## Principles
+
+- Write small, write often
+- Connect theory to real situations
+- Review quarterly
+- This is for me, not an audience
+
+## Started
+September 2026
