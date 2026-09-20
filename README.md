@@ -16,7 +16,9 @@ This is my system.
 | `leadership/` | Team management, processes, difficult conversations |
 | `architecture/` | Decisions, patterns, system design, infrastructure |
 | `books/` | Key takeaways and applied learnings per book |
-| `technical/` | C#, React, Azure, Bicep, testing |
+| `articles/` | Articles and blog posts worth remembering |
+| `technical/` | Per-stack notes: `react/`, `csharp/`, `azure/`, `go/` |
+| `speaking/` | Talks: preparation, feedback, retros |
 | `career/` | Goals, reading list, quarterly retrospectives |
 | `decisions/` | Important decisions made, context, and outcomes |
 | `retrospectives/` | Weekly and quarterly reflections |

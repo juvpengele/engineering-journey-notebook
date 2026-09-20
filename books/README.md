@@ -6,7 +6,7 @@
 |--------|------|--------|--------|
 | ✅ Done | The Pragmatic Programmer | Hunt & Thomas | Jan–Feb |
 | 🟡 To read | Designing Data-Intensive Applications | Martin Kleppmann | Jul–Aug |
-| 🟡 To read | System Design Interview Vol 1 & 2 | Alex Xu | Jul–Aug |
+| 🟡 To read | System Design Interview Vol 2 | Alex Xu | Jul–Aug |
 | 🟡 To read | The Manager's Path | Camille Fournier | Sept–Oct |
 | 🟡 To read | The Staff Engineer's Path | Tanya Reilly | Nov–Dec |
 
