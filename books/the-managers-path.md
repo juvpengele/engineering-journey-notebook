@@ -1,6 +1,6 @@
 # The Manager's Path — Camille Fournier
 
-**Status:** 🟡 In progress (Sept–Oct 2026)
+**Status:** 🟡 To read (Sept–Oct 2026)
 **Publisher:** O'Reilly
 
 ## One Line Summary
@@ -22,32 +22,30 @@ Actively managing a technical team and growing toward lead dev and architect rol
 
 ### Chapter 2 — Mentoring
 
-Mentoring is a good opportunity to have a good impact on someone's life, especially for an intern. Students come for summer internships, and the goal is to have a great impact on their time at your company.
+Mentoring is a good opportunity to have a good impact on someone's life especially for an intern. Sometimes, students come for summer internships and the goal here is to have a great impact on their time at your company.
 
-#### Mentoring an intern
+- **Intern**:
+   - **Skills to have:** Give him a project to work on, sit with him during the first days and help set up everything (the IDE, install the projects...), listen carefully and answer his questions. _Listening_ is the skill you should develop the most as a manager and a mentor. Another important skill to develop is _communication_. Be the clearest possible when communicating (if you expect him to do a research, tell him!)
+   - **How to prepare yourself to receive an intern:** Prepare his arrival, have a project for him to work on and make him present his work at the end of his internship
 
-**Skills to have**
-- Give them a project to work on.
-- Sit with them during the first days and help set up everything (the IDE, install the projects...).
-- Listen carefully and answer their questions. _Listening_ is the skill you should develop the most as a manager and a mentor.
-- The other important skill to develop is _communication_. Be as clear as possible — if you expect them to do research, tell them!
+- **New hire**: Effective teams have good onboarding documents they provide to new hires. Those documents should also evolve to meet the changes in the workspace. Onboarding a new hire is also an opportunity to clarify some unspoken rules.
 
-**How to prepare yourself to receive an intern**
-- Prepare their arrival.
-- Have a project ready for them to work on.
-- Have them present their work at the end of the internship.
+When you are proposed to be a mentor, you don't have to accept if you don't have enough time to commit. You should also tell your mentee what you expect from her.
 
-#### Mentoring a new hire
-
-Effective teams have good onboarding documents they provide to new hires. Those documents should also evolve to meet the changes in the workspace. Onboarding a new hire is also an opportunity to clarify some unspoken rules.
-
-#### Taking on the mentoring relationship
-
-- **As a mentor:** when you are proposed to be a mentor, you don't have to accept if you don't have enough time to commit. You should also tell your mentee what you expect from them.
-- **As a mentee:** come prepared to your sessions and don't waste your mentor's time. Consider whether you really need a mentor — it is a significant commitment, and you will be using someone's time.
+When you are a mentee, you should come prepared to your sessions, don't waste your mentor's time and try to consider if you really need to have a mentor as it is a significant commitment and you will be using someone's time.
 
 #### Tips to be a good manager
-<!-- Fill in as you read -->
+
+- Set up measurable and clear goals before establishing mentorship programs.
+- Recognize people who accept the role of mentors as first-class citizens.
+- Be aware the impact of being a mentor can have on the productivity.
+- Use mentorships as an opportunity to train future leaders.
+
+#### Key Takeaways for the mentor
+
+- **Be curious and open-minded:** mentorship provides an opportunity to cultivate curiosity and see the world through fresh eyes.
+- **Listen and speak their language:** To work successfully with a new comer, you need to understand their perspective and communicate in a way that resonates with them.
+- **Make connections:** Your next job can come from your mentoring relationship. The professional world is small and is a long run, so treat people well.
 
 ## Would I Recommend It?
 <!-- Fill in after reading -->
