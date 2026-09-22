@@ -34,6 +34,19 @@ When you are proposed to be a mentor, you don't have to accept if you don't have
 
 When you are a mentee, you should come prepared to your sessions, don't waste your mentor's time and try to consider if you really need to have a mentor as it is a significant commitment and you will be using someone's time.
 
+### Chapter 3 — Tech lead
+
+The tech lead is not a position for a person who wants to focus on his own code. Giving the tech lead position to the most experienced engineer is a misconception even experienced managers fall for. Being a tech lead is not only a technical position but also 
+a management one.
+
+Technical leads should work on one major technical skill: project management.As a tech lead, we need to learn the role of balanace.
+
+The main roles of a tech lead:
+- Systems architect and business analyst.
+- Project planner.
+- Software developer and team leder.
+
+
 #### Tips to be a good manager
 
 - Set up measurable and clear goals before establishing mentorship programs.
