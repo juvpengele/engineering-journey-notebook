@@ -60,6 +60,13 @@ The main roles of a tech lead:
 - Project planner.
 - Software developer and team leder.
 
+- I don't know if I want to be a tech lead: if you are not ready to take on management-responsibilities, DON'T take them.
+But at some point, you will have to take the tech lead role if you want to progress in your career.
+
+- Become tech lead or stay as an individual contributor: You should try out management at some point, and if you don't enjoy
+it, it is possible to go back to the technical stack. Each role has benefits and drawbacks, and it is up to you to feel out
+what you enjoy the most
+
 ## Would I Recommend It?
 <!-- Fill in after reading -->
 
