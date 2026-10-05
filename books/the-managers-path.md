@@ -67,6 +67,41 @@ But at some point, you will have to take the tech lead role if you want to progr
 it, it is possible to go back to the technical stack. Each role has benefits and drawbacks, and it is up to you to feel out
 what you enjoy the most
 
+
+As a new tech lead, be careful of relying on process to solve problems that are a result of communication or leadership gaps on your team.
+And if it is a waste of your time to play rules cop, and automation can often make the rules more obvious.
+
+- How to be a good tech leader:
+   - Understand the architecture.
+   - Be a team player.
+   - Lead technical decisions.
+   - Communicate.
+
+### Chapter 3 — Managing people
+
+“It’s hard to accept that “new manager” is an entry-level job with no seniority on any front, but that’s the best mindset with which to start leading.”
+
+#### 1. Starting a new reporting relationship off right
+One strategy is to ask a series of questions that are intended to help you get to know the aspects of the person 
+that impact your ability to manage him well.
+- How do you like to be praised in public or in private ?
+- What is your preferred method of communication for serious feedback ?
+- What did you decide to work here ? What are you excited about ?
+
+#### 2. Communicating with Your Team
+Regular 1-1s are like oil changes, if you skip them, plan to get straded on the oside of the highway at the worst possible time
+- Have regular 1-1s: unless you are a CTO with many years of experience, you should assume you need to do it regularly
+- Scheduling 1-1s: start with a weekly schedule and try to readjust accordingly.
+- Adjusting 1-1s: You need to adjust according to the frequency, the level of coaching and the stability of the team
+
+We can have different styles of 1-1s:
+- The TO-DO List Meeting: both parties come with a list of objectives that they update.
+- The catch-up: listen everything the direct report want to discuss.
+- The feedback meeting: Can be used to review progress toward goals whether they are formal or personal.
+- The progress report: Used when you are managing managers.
+
+__Takeaways__:  Try to keep notes and to-dos from your 1-1s.
+
 ## Would I Recommend It?
 <!-- Fill in after reading -->
 
