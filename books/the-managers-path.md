@@ -102,6 +102,25 @@ We can have different styles of 1-1s:
 
 __Takeaways__:  Try to keep notes and to-dos from your 1-1s.
 
+#### 3. Micromanager vs Delegator
+
+The hardest thing about micromanagement is that there are times when you need to do it. But if
+micromanaging is your default approach toward leading your team, you’ll end up like undermining the very people 
+you need to be growing and rewarding.
+
+*Autonomy*, the ability to have control over some part of your work, is an important element of motivation.
+On the other hand, *delegation* is not the same thing as abdication. 
+When you’re delegating responsibility, you’re still expected to 
+be involved as much as is necessary to help the project succeed.
+
+- How to delegate ?
+   - Use the team's goals to understand which details you should dig into.
+   - Gather information from the systems before going to the people.
+   - Adjust Your Focus Depending on the Stage of Projects
+   - Establish Standards for Code and Systems
+
+
+
 ## Would I Recommend It?
 <!-- Fill in after reading -->
 
